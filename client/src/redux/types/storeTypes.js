@@ -1,0 +1,2 @@
+export const GET_ALL_STORE= "GET_ALL_STORE"
+export const EDITSTORE ="EDITSTORE"
